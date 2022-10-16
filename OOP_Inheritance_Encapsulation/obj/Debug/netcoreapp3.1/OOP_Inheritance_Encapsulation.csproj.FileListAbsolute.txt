@@ -1,0 +1,14 @@
+C:\Users\mahir\source\repos\OOP_Inheritance_Encapsulation\OOP_Inheritance_Encapsulation\bin\Debug\netcoreapp3.1\OOP_Inheritance_Encapsulation.exe
+C:\Users\mahir\source\repos\OOP_Inheritance_Encapsulation\OOP_Inheritance_Encapsulation\bin\Debug\netcoreapp3.1\OOP_Inheritance_Encapsulation.deps.json
+C:\Users\mahir\source\repos\OOP_Inheritance_Encapsulation\OOP_Inheritance_Encapsulation\bin\Debug\netcoreapp3.1\OOP_Inheritance_Encapsulation.runtimeconfig.json
+C:\Users\mahir\source\repos\OOP_Inheritance_Encapsulation\OOP_Inheritance_Encapsulation\bin\Debug\netcoreapp3.1\OOP_Inheritance_Encapsulation.runtimeconfig.dev.json
+C:\Users\mahir\source\repos\OOP_Inheritance_Encapsulation\OOP_Inheritance_Encapsulation\bin\Debug\netcoreapp3.1\OOP_Inheritance_Encapsulation.dll
+C:\Users\mahir\source\repos\OOP_Inheritance_Encapsulation\OOP_Inheritance_Encapsulation\bin\Debug\netcoreapp3.1\OOP_Inheritance_Encapsulation.pdb
+C:\Users\mahir\source\repos\OOP_Inheritance_Encapsulation\OOP_Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\OOP_Inheritance_Encapsulation.csproj.AssemblyReference.cache
+C:\Users\mahir\source\repos\OOP_Inheritance_Encapsulation\OOP_Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\OOP_Inheritance_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir\source\repos\OOP_Inheritance_Encapsulation\OOP_Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\OOP_Inheritance_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\mahir\source\repos\OOP_Inheritance_Encapsulation\OOP_Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\OOP_Inheritance_Encapsulation.AssemblyInfo.cs
+C:\Users\mahir\source\repos\OOP_Inheritance_Encapsulation\OOP_Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\OOP_Inheritance_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\mahir\source\repos\OOP_Inheritance_Encapsulation\OOP_Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\OOP_Inheritance_Encapsulation.dll
+C:\Users\mahir\source\repos\OOP_Inheritance_Encapsulation\OOP_Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\OOP_Inheritance_Encapsulation.pdb
+C:\Users\mahir\source\repos\OOP_Inheritance_Encapsulation\OOP_Inheritance_Encapsulation\obj\Debug\netcoreapp3.1\OOP_Inheritance_Encapsulation.genruntimeconfig.cache
